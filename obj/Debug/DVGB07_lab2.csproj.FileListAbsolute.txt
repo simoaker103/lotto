@@ -1,0 +1,11 @@
+C:\Users\simon\source\repos\DVGB07_lab2\DVGB07_lab2\bin\Debug\DVGB07_lab2.exe.config
+C:\Users\simon\source\repos\DVGB07_lab2\DVGB07_lab2\bin\Debug\DVGB07_lab2.exe
+C:\Users\simon\source\repos\DVGB07_lab2\DVGB07_lab2\bin\Debug\DVGB07_lab2.pdb
+C:\Users\simon\source\repos\DVGB07_lab2\DVGB07_lab2\obj\Debug\DVGB07_lab2.csproj.AssemblyReference.cache
+C:\Users\simon\source\repos\DVGB07_lab2\DVGB07_lab2\obj\Debug\DVGB07_lab2.Properties.Resources.resources
+C:\Users\simon\source\repos\DVGB07_lab2\DVGB07_lab2\obj\Debug\DVGB07_lab2.csproj.GenerateResource.cache
+C:\Users\simon\source\repos\DVGB07_lab2\DVGB07_lab2\obj\Debug\DVGB07_lab2.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\DVGB07_lab2\DVGB07_lab2\obj\Debug\DVGB07_lab2.exe
+C:\Users\simon\source\repos\DVGB07_lab2\DVGB07_lab2\obj\Debug\DVGB07_lab2.pdb
+C:\Users\simon\source\repos\DVGB07_lab2\DVGB07_lab2\obj\Debug\DVGB07_lab2.mainForm.resources
+C:\Users\simon\source\repos\DVGB07_lab2\DVGB07_lab2\obj\Debug\DVGB07_lab2.Lotto.resources
